@@ -1,0 +1,11 @@
+${PODS_ROOT}/Target Support Files/Pods-tasks_UI/Pods-tasks_UI-frameworks.sh
+${BUILT_PRODUCTS_DIR}/AHDownloadButton/AHDownloadButton.framework
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/FloatingButton/FloatingButton.framework
+${BUILT_PRODUCTS_DIR}/MDFInternationalization/MDFInternationalization.framework
+${BUILT_PRODUCTS_DIR}/MDFTextAccessibility/MDFTextAccessibility.framework
+${BUILT_PRODUCTS_DIR}/MaterialComponents/MaterialComponents.framework
+${BUILT_PRODUCTS_DIR}/PromiseKit/PromiseKit.framework
+${BUILT_PRODUCTS_DIR}/PureLayout/PureLayout.framework
+${BUILT_PRODUCTS_DIR}/QuickTableViewController/QuickTableViewController.framework
+${BUILT_PRODUCTS_DIR}/Toast-Swift/Toast_Swift.framework

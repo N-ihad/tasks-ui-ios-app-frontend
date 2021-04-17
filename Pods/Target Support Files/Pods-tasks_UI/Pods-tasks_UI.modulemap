@@ -1,0 +1,6 @@
+framework module Pods_tasks_UI {
+  umbrella header "Pods-tasks_UI-umbrella.h"
+
+  export *
+  module * { export * }
+}
