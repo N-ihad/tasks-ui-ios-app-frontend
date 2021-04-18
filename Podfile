@@ -15,5 +15,5 @@ target 'tasks_UI' do
   pod "MaterialComponents/Buttons"
   pod "Alamofire"
   pod 'QuickTableViewController'
-
+  pod 'TableKit'
 end

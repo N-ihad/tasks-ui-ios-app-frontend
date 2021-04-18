@@ -14,10 +14,27 @@
 		2031229726281164003195BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2031229526281164003195BB /* LaunchScreen.storyboard */; };
 		203122C626282750003195BB /* MainTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203122C526282750003195BB /* MainTabBarController.swift */; };
 		203122D4262AE6FA003195BB /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 203122D3262AE6FA003195BB /* SettingsViewController.swift */; };
+		20CD070F262C7EB7006E1C08 /* ParallelSystemViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD070E262C7EB7006E1C08 /* ParallelSystemViewController.swift */; };
+		20CD0713262CD530006E1C08 /* HistParameterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD0712262CD530006E1C08 /* HistParameterSelectionViewController.swift */; };
+		20CD0716262CD53A006E1C08 /* DftParameterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD0715262CD53A006E1C08 /* DftParameterSelectionViewController.swift */; };
+		20CD0719262CD542006E1C08 /* DctParameterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD0718262CD542006E1C08 /* DctParameterSelectionViewController.swift */; };
+		20CD071C262CD54A006E1C08 /* ScaleParameterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD071B262CD54A006E1C08 /* ScaleParameterSelectionViewController.swift */; };
+		20CD071F262CD554006E1C08 /* GradientParameterSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20CD071E262CD554006E1C08 /* GradientParameterSelectionViewController.swift */; };
 		20FB6DB4262B0071007E949E /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DB3262B0071007E949E /* Extensions.swift */; };
 		20FB6DBA262B202D007E949E /* ViolaJonesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DB9262B202D007E949E /* ViolaJonesViewController.swift */; };
 		20FB6DBE262B2115007E949E /* ThirdTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DBD262B2115007E949E /* ThirdTaskViewController.swift */; };
-		20FB6DCD262B9339007E949E /* 0.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DCC262B9339007E949E /* 0.jpg */; };
+		20FB6DD7262C3238007E949E /* mouth.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD1262C3238007E949E /* mouth.jpg */; };
+		20FB6DD8262C3238007E949E /* general.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD2262C3238007E949E /* general.jpg */; };
+		20FB6DD9262C3238007E949E /* eyes.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD3262C3238007E949E /* eyes.jpg */; };
+		20FB6DDA262C3238007E949E /* face.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD4262C3238007E949E /* face.jpg */; };
+		20FB6DDB262C3238007E949E /* upperFace.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD5262C3238007E949E /* upperFace.jpg */; };
+		20FB6DDC262C3238007E949E /* nose.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 20FB6DD6262C3238007E949E /* nose.jpg */; };
+		20FB6DE9262C51E8007E949E /* SymmetryLinesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DE8262C51E8007E949E /* SymmetryLinesViewController.swift */; };
+		20FB6DED262C7A35007E949E /* HistViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DEC262C7A35007E949E /* HistViewController.swift */; };
+		20FB6DF0262C7A46007E949E /* DftViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DEF262C7A46007E949E /* DftViewController.swift */; };
+		20FB6DF3262C7A50007E949E /* DctViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DF2262C7A50007E949E /* DctViewController.swift */; };
+		20FB6DF6262C7A5E007E949E /* ScaleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DF5262C7A5E007E949E /* ScaleViewController.swift */; };
+		20FB6DFA262C7A78007E949E /* GradientViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 20FB6DF9262C7A78007E949E /* GradientViewController.swift */; };
 		CF84D57FF2B75ED7E2D57B36 /* Pods_tasks_UI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3E5D1745B37B8159E268CDF3 /* Pods_tasks_UI.framework */; };
 /* End PBXBuildFile section */
 
@@ -31,10 +48,27 @@
 		2031229826281164003195BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		203122C526282750003195BB /* MainTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainTabBarController.swift; sourceTree = "<group>"; };
 		203122D3262AE6FA003195BB /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
+		20CD070E262C7EB7006E1C08 /* ParallelSystemViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ParallelSystemViewController.swift; sourceTree = "<group>"; };
+		20CD0712262CD530006E1C08 /* HistParameterSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistParameterSelectionViewController.swift; sourceTree = "<group>"; };
+		20CD0715262CD53A006E1C08 /* DftParameterSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DftParameterSelectionViewController.swift; sourceTree = "<group>"; };
+		20CD0718262CD542006E1C08 /* DctParameterSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DctParameterSelectionViewController.swift; sourceTree = "<group>"; };
+		20CD071B262CD54A006E1C08 /* ScaleParameterSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleParameterSelectionViewController.swift; sourceTree = "<group>"; };
+		20CD071E262CD554006E1C08 /* GradientParameterSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientParameterSelectionViewController.swift; sourceTree = "<group>"; };
 		20FB6DB3262B0071007E949E /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		20FB6DB9262B202D007E949E /* ViolaJonesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViolaJonesViewController.swift; sourceTree = "<group>"; };
 		20FB6DBD262B2115007E949E /* ThirdTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThirdTaskViewController.swift; sourceTree = "<group>"; };
-		20FB6DCC262B9339007E949E /* 0.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 0.jpg; sourceTree = "<group>"; };
+		20FB6DD1262C3238007E949E /* mouth.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = mouth.jpg; sourceTree = "<group>"; };
+		20FB6DD2262C3238007E949E /* general.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = general.jpg; sourceTree = "<group>"; };
+		20FB6DD3262C3238007E949E /* eyes.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = eyes.jpg; sourceTree = "<group>"; };
+		20FB6DD4262C3238007E949E /* face.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = face.jpg; sourceTree = "<group>"; };
+		20FB6DD5262C3238007E949E /* upperFace.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = upperFace.jpg; sourceTree = "<group>"; };
+		20FB6DD6262C3238007E949E /* nose.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = nose.jpg; sourceTree = "<group>"; };
+		20FB6DE8262C51E8007E949E /* SymmetryLinesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SymmetryLinesViewController.swift; sourceTree = "<group>"; };
+		20FB6DEC262C7A35007E949E /* HistViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HistViewController.swift; sourceTree = "<group>"; };
+		20FB6DEF262C7A46007E949E /* DftViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DftViewController.swift; sourceTree = "<group>"; };
+		20FB6DF2262C7A50007E949E /* DctViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DctViewController.swift; sourceTree = "<group>"; };
+		20FB6DF5262C7A5E007E949E /* ScaleViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScaleViewController.swift; sourceTree = "<group>"; };
+		20FB6DF9262C7A78007E949E /* GradientViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradientViewController.swift; sourceTree = "<group>"; };
 		2C8769AEB362C2EC3BDFE568 /* Pods-tasks_UI.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tasks_UI.release.xcconfig"; path = "Target Support Files/Pods-tasks_UI/Pods-tasks_UI.release.xcconfig"; sourceTree = "<group>"; };
 		3E5D1745B37B8159E268CDF3 /* Pods_tasks_UI.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_tasks_UI.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		6B32FEC0EC6046D36029BB57 /* Pods-tasks_UI.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-tasks_UI.debug.xcconfig"; path = "Target Support Files/Pods-tasks_UI/Pods-tasks_UI.debug.xcconfig"; sourceTree = "<group>"; };
@@ -73,16 +107,9 @@
 		2031228926281164003195BB /* tasks_UI */ = {
 			isa = PBXGroup;
 			children = (
-				203122C526282750003195BB /* MainTabBarController.swift */,
 				203122E3262AF2E1003195BB /* Application */,
-				203122E2262AF2C8003195BB /* Template Matching */,
-				20FB6DB6262B1753007E949E /* Viola Jones */,
-				20FB6DBC262B20F8007E949E /* Third Task */,
-				2031229326281164003195BB /* Assets.xcassets */,
-				20FB6DCC262B9339007E949E /* 0.jpg */,
-				2031229526281164003195BB /* LaunchScreen.storyboard */,
-				2031229826281164003195BB /* Info.plist */,
-				20FB6DB3262B0071007E949E /* Extensions.swift */,
+				20FB6DE0262C50DB007E949E /* Modules */,
+				20FB6DE4262C5169007E949E /* Resources */,
 			);
 			path = tasks_UI;
 			sourceTree = "<group>";
@@ -105,6 +132,30 @@
 			path = Application;
 			sourceTree = "<group>";
 		};
+		20CD0721262CD661006E1C08 /* Method Examples */ = {
+			isa = PBXGroup;
+			children = (
+				20FB6DEC262C7A35007E949E /* HistViewController.swift */,
+				20FB6DEF262C7A46007E949E /* DftViewController.swift */,
+				20FB6DF2262C7A50007E949E /* DctViewController.swift */,
+				20FB6DF5262C7A5E007E949E /* ScaleViewController.swift */,
+				20FB6DF9262C7A78007E949E /* GradientViewController.swift */,
+			);
+			path = "Method Examples";
+			sourceTree = "<group>";
+		};
+		20CD0722262CD674006E1C08 /* Parameter Selection */ = {
+			isa = PBXGroup;
+			children = (
+				20CD0712262CD530006E1C08 /* HistParameterSelectionViewController.swift */,
+				20CD0715262CD53A006E1C08 /* DftParameterSelectionViewController.swift */,
+				20CD0718262CD542006E1C08 /* DctParameterSelectionViewController.swift */,
+				20CD071B262CD54A006E1C08 /* ScaleParameterSelectionViewController.swift */,
+				20CD071E262CD554006E1C08 /* GradientParameterSelectionViewController.swift */,
+			);
+			path = "Parameter Selection";
+			sourceTree = "<group>";
+		};
 		20FB6DB6262B1753007E949E /* Viola Jones */ = {
 			isa = PBXGroup;
 			children = (
@@ -113,12 +164,68 @@
 			path = "Viola Jones";
 			sourceTree = "<group>";
 		};
-		20FB6DBC262B20F8007E949E /* Third Task */ = {
+		20FB6DDE262C323C007E949E /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				20FB6DD2262C3238007E949E /* general.jpg */,
+				20FB6DD4262C3238007E949E /* face.jpg */,
+				20FB6DD5262C3238007E949E /* upperFace.jpg */,
+				20FB6DD3262C3238007E949E /* eyes.jpg */,
+				20FB6DD6262C3238007E949E /* nose.jpg */,
+				20FB6DD1262C3238007E949E /* mouth.jpg */,
+			);
+			path = Images;
+			sourceTree = "<group>";
+		};
+		20FB6DE0262C50DB007E949E /* Modules */ = {
+			isa = PBXGroup;
+			children = (
+				203122C526282750003195BB /* MainTabBarController.swift */,
+				20FB6DE1262C50E9007E949E /* 2 task */,
+				20FB6DE2262C50F6007E949E /* 3-4 task */,
+			);
+			path = Modules;
+			sourceTree = "<group>";
+		};
+		20FB6DE1262C50E9007E949E /* 2 task */ = {
+			isa = PBXGroup;
+			children = (
+				203122E2262AF2C8003195BB /* Template Matching */,
+				20FB6DB6262B1753007E949E /* Viola Jones */,
+				20FB6DE3262C511A007E949E /* Symmetry Lines */,
+			);
+			path = "2 task";
+			sourceTree = "<group>";
+		};
+		20FB6DE2262C50F6007E949E /* 3-4 task */ = {
 			isa = PBXGroup;
 			children = (
 				20FB6DBD262B2115007E949E /* ThirdTaskViewController.swift */,
+				20CD0721262CD661006E1C08 /* Method Examples */,
+				20CD0722262CD674006E1C08 /* Parameter Selection */,
+				20CD070E262C7EB7006E1C08 /* ParallelSystemViewController.swift */,
 			);
-			path = "Third Task";
+			path = "3-4 task";
+			sourceTree = "<group>";
+		};
+		20FB6DE3262C511A007E949E /* Symmetry Lines */ = {
+			isa = PBXGroup;
+			children = (
+				20FB6DE8262C51E8007E949E /* SymmetryLinesViewController.swift */,
+			);
+			path = "Symmetry Lines";
+			sourceTree = "<group>";
+		};
+		20FB6DE4262C5169007E949E /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				20FB6DB3262B0071007E949E /* Extensions.swift */,
+				2031229326281164003195BB /* Assets.xcassets */,
+				20FB6DDE262C323C007E949E /* Images */,
+				2031229526281164003195BB /* LaunchScreen.storyboard */,
+				2031229826281164003195BB /* Info.plist */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 		D2D478F3FBF7E63C1240C052 /* Frameworks */ = {
@@ -197,9 +304,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				20FB6DCD262B9339007E949E /* 0.jpg in Resources */,
+				20FB6DDA262C3238007E949E /* face.jpg in Resources */,
+				20FB6DDB262C3238007E949E /* upperFace.jpg in Resources */,
+				20FB6DD7262C3238007E949E /* mouth.jpg in Resources */,
+				20FB6DDC262C3238007E949E /* nose.jpg in Resources */,
 				2031229726281164003195BB /* LaunchScreen.storyboard in Resources */,
 				2031229426281164003195BB /* Assets.xcassets in Resources */,
+				20FB6DD9262C3238007E949E /* eyes.jpg in Resources */,
+				20FB6DD8262C3238007E949E /* general.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -252,12 +364,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				20FB6DF6262C7A5E007E949E /* ScaleViewController.swift in Sources */,
+				20CD071F262CD554006E1C08 /* GradientParameterSelectionViewController.swift in Sources */,
+				20CD0716262CD53A006E1C08 /* DftParameterSelectionViewController.swift in Sources */,
+				20FB6DF3262C7A50007E949E /* DctViewController.swift in Sources */,
+				20CD0719262CD542006E1C08 /* DctParameterSelectionViewController.swift in Sources */,
+				20FB6DF0262C7A46007E949E /* DftViewController.swift in Sources */,
+				20CD0713262CD530006E1C08 /* HistParameterSelectionViewController.swift in Sources */,
 				20FB6DBA262B202D007E949E /* ViolaJonesViewController.swift in Sources */,
 				2031228F26281164003195BB /* TemplateMatchingViewController.swift in Sources */,
+				20CD070F262C7EB7006E1C08 /* ParallelSystemViewController.swift in Sources */,
+				20FB6DED262C7A35007E949E /* HistViewController.swift in Sources */,
 				20FB6DB4262B0071007E949E /* Extensions.swift in Sources */,
+				20CD071C262CD54A006E1C08 /* ScaleParameterSelectionViewController.swift in Sources */,
 				2031228B26281164003195BB /* AppDelegate.swift in Sources */,
 				203122C626282750003195BB /* MainTabBarController.swift in Sources */,
 				20FB6DBE262B2115007E949E /* ThirdTaskViewController.swift in Sources */,
+				20FB6DFA262C7A78007E949E /* GradientViewController.swift in Sources */,
+				20FB6DE9262C51E8007E949E /* SymmetryLinesViewController.swift in Sources */,
 				203122D4262AE6FA003195BB /* SettingsViewController.swift in Sources */,
 				2031228D26281164003195BB /* SceneDelegate.swift in Sources */,
 			);
@@ -401,7 +525,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G8LSJ9NMNL;
-				INFOPLIST_FILE = tasks_UI/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/tasks_UI/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -421,7 +545,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = G8LSJ9NMNL;
-				INFOPLIST_FILE = tasks_UI/Info.plist;
+				INFOPLIST_FILE = "$(SRCROOT)/tasks_UI/Resources/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",

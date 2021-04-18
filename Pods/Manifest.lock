@@ -56,6 +56,7 @@ PODS:
     - PromiseKit/CorePromise
   - PureLayout (3.1.6)
   - QuickTableViewController (1.3.1)
+  - TableKit (2.11.0)
   - Toast-Swift (5.0.1)
 
 DEPENDENCIES:
@@ -67,6 +68,7 @@ DEPENDENCIES:
   - PromiseKit/MapKit
   - PureLayout
   - QuickTableViewController
+  - TableKit
   - Toast-Swift
 
 SPEC REPOS:
@@ -80,6 +82,7 @@ SPEC REPOS:
     - PromiseKit
     - PureLayout
     - QuickTableViewController
+    - TableKit
     - Toast-Swift
 
 SPEC CHECKSUMS:
@@ -92,8 +95,9 @@ SPEC CHECKSUMS:
   PromiseKit: 28fda91c973cc377875d8c0ea4f973013c05b6db
   PureLayout: bd3c4ec3a3819ad387c99ebb72c6b129c3ed4d2d
   QuickTableViewController: 25e698de1546c2b829c543d91b64ebc6e884acfc
+  TableKit: 8a1a267d841a2da638ea09bdb0db33aedb459fa8
   Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
 
-PODFILE CHECKSUM: 87099cb00b34cf8a4eb04c0968ef28a7d039ab13
+PODFILE CHECKSUM: 846dcc4a52010752004db08fad0167e930cb8553
 
 COCOAPODS: 1.10.1
